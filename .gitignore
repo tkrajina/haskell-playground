@@ -1,2 +1,5 @@
 *.hi
 *.o
+*.swp
+*.swo
+a.out
