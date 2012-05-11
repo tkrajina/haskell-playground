@@ -1,0 +1,2 @@
+map <F1> :!ghc --make % -o a.out
+map <F2> :!./a.out
